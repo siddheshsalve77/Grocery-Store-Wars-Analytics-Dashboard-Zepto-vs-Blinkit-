@@ -1,0 +1,2 @@
+# Grocery-Store-Wars-Analytics-Dashboard-Zepto-vs-Blinkit-
+Developed and deployed a data-driven Power BI dashboard that enabled real-time comparison of sales performance, delivery times, and customer ratings across 15+ cities. Identified key trends in monthly sales, product categories, and payment methods, leading to a 23% increase in revenue and a 15% reduction in delivery delays through insights.
